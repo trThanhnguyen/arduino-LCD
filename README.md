@@ -17,7 +17,10 @@ Connect the pins from the LCD (left) to the Arduino UNO (right) [directly withou
 4. Rs   -> Digital pin 12
 5. Rw   -> GND
 6. E    -> Digital pin 11
-7 - 10: no connections
+7. no connections
+8. no connections
+9. no connections
+10. no connections
 11. D4  -> Digital pin 5
 12. D5  -> Digital pin 4
 13. D6  -> Digital pin 3
